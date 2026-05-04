@@ -2,6 +2,12 @@
 
 # Fixing phpMyAdmin Not Loading on Ubuntu (White Page / PHP Code Showing)
 
+# WARNING
+
+**It is recommended to do this with xampp in Windows because this database is extremely unstable in Linux.**
+
+---
+
 This guide explains how to **install**, **configure**, and **fix** phpMyAdmin when it doesn’t load on Ubuntu.\
 If you open `http://localhost/phpmyadmin` and see a **white page** or **raw PHP code**, follow these steps.
 
