@@ -1,6 +1,6 @@
 {
     "what is this": "Installer Lamp PKG for run phpmyadmin on Linux",
-    "author": "GodFather",
+    "author": "CAgent_47",
     "Packages": [
         "apache2",
         "mariadb-server",
