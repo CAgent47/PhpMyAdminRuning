@@ -144,4 +144,9 @@ sudo systemctl restart mysql
 **Written for anyone who struggles with phpMyAdmin on Ubuntu.**\
 **Don’t give up — every developer has been here once.
 
+---
+
+[#Linux](https://github.com/topics/linux)
+[#CAgent_47](https://github.com/topics/CAgent47)
+
 ![banner](banner.png)
