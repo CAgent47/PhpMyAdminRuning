@@ -4,7 +4,7 @@
 
 # WARNING
 
-**It is recommended to do this with xampp in Windows because this database is extremely unstable in Linux.**
+**"If phpMyAdmin doesn't load correctly, check the Apache configuration and PHP modules."**
 
 ---
 
