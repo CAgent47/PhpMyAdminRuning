@@ -23,12 +23,14 @@ sudo apt update && sudo apt upgrade -y
 
 ## ✅ 2. Install Apache, PHP, MySQL, and phpMyAdmin
 
-![Download_me](https://github.com/CAgent_47/How-to-Run-phpmyadmin-In-Linux-Ubuntu-/archive/refs/heads/main.zip)
+```bash
+git clone https://github.com/CAgent47/How-to-Run-phpmyadmin-In-Linux-Ubuntu-.git
+```
 
 ```bash
 # After download
 # Extract file
-cd ~/Downloads/phpmyadmin
+cd ~ # folder
 chmod +x runner.sh
 bash runner.sh
 ```
