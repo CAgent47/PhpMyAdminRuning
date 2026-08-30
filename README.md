@@ -1,4 +1,4 @@
-# How-to-Run-phpmyadmin-In-Linux-Ubuntu-
+# PhpMyAdmin Run Setup
 
 # Fixing phpMyAdmin Not Loading on Ubuntu (White Page / PHP Code Showing)
 
